@@ -1,0 +1,14 @@
+{
+	"id": "0b6a8048-85cd-4949-8894-f6e351b78af1",
+	"values": [
+		{
+			"key": "currentDate",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"name": "Team Workspace Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2022-07-08T12:52:01.399Z",
+	"_postman_exported_using": "Postman/8.12.5"
+}
